@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->  
 - 📚 I’m currently studing Computer Science
 - 🌱 I’m currently learning various topics in competitive programming, interesting algorithms, operating systems, data bases, calculus, algebra and more ...
-- 📫 How to reach me: student email: `daviles@estudiantec.cr` and personal email: `desiree.aviles.a@gmail.com`
+- 📫 How to reach me: student email: daviles@estudiantec.cr and personal email: desiree.aviles.a@gmail.com
 
 ### Some of my skills:
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,java,git,github,python,gradle)](https://skillicons.dev)

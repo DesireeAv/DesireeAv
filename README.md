@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **DesireeAv/DesireeAv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +12,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> Some 
+- 📚 I’m currently studing Computer Science
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: 
+- ⚡ Fun fact: ...
+
+### Some of my skills:
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,java,git,github,python,gradle)](https://skillicons.dev)

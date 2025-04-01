@@ -19,5 +19,4 @@ Here are some ideas to get you started:
   - Student email: daviles@estudiantec.cr
   - Personal email: desiree.aviles.a@gmail.com
 
-### Some of my skills:
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,java,git,github,python,gradle,linux,latex)](https://skillicons.dev)
